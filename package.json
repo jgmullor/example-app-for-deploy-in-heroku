@@ -16,6 +16,10 @@
         "generate": "nuxt-ts generate",
         "test": "jest"
     },
+    "engines": {
+        "node": "12.x",
+        "yarn": "1.x"
+    },
     "dependencies": {
         "@nuxt/typescript-runtime": "^2.0.0",
         "core-js": "^3.6.5",
